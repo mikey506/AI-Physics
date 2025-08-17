@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+pygame
+torch
+
+# Optional dependencies
+yfinance        # External data grounding
+opencv-python   # Vision modulation
+transformers    # Multimodal embeddings (DistilBERT)
+qutip           # Quantum subgrid
